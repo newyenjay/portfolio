@@ -552,7 +552,7 @@ padding-right: 10px;
 }
 
 
-#dnit {
+#dnit, #blueocean-img {
   filter: url(filters.svg#grayscale);
   /* Firefox 3.5+ */
   filter: gray;
@@ -562,7 +562,7 @@ padding-right: 10px;
   transition: all .6s ease;
 
 }
-#dnit:hover {
+#dnit:hover, #blueocean-img:hover {
   filter: none;
   -webkit-filter: none;
   transition: all .6s ease;
