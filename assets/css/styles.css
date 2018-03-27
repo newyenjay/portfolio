@@ -121,7 +121,7 @@ a.dotted-link:hover {
   padding: 30px;
   padding-right: 100px;
   padding-bottom: 0px;
-background: url(../images/flower2.jpeg);
+background: url(../images/flower3.jpeg);
 }
 .header .btn {
   margin-top: 60px;
@@ -600,4 +600,9 @@ padding-right: 10px;
 
 .work-project-description{
   font-weight: normal;
+}
+
+/* Contact button*/
+#contact {
+  margin-right: 10px;
 }
