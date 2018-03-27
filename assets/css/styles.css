@@ -131,7 +131,7 @@ background: url(../images/flower2.jpeg);
   margin-right: 30px;
 }
 .header .profile-content .name {
-  color: #49515a;
+  /* color: #49515a; */
   margin-bottom: 5px;
   margin-top: 30px;
   font-size: 75px;
