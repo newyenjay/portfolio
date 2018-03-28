@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="117" column="28" lean-forward="false" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+            <state relative-caret-position="370">
+              <caret line="463" column="84" lean-forward="false" selection-start-line="463" selection-start-column="84" selection-end-line="463" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -57,6 +57,7 @@
       <find>Sebasti</find>
       <find>banner</find>
       <find>center</find>
+      <find>jade</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522168751320</updated>
       <workItem from="1522168752635" duration="2810000" />
-      <workItem from="1522250626812" duration="6077000" />
+      <workItem from="1522250626812" duration="6381000" />
     </task>
     <task id="LOCAL-00001" summary="Images turned into hyperlinks">
       <created>1522168911244</created>
@@ -204,7 +205,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8887000" />
+    <option name="totallyTimeSpent" value="9191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
@@ -319,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="117" column="28" lean-forward="false" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+        <state relative-caret-position="370">
+          <caret line="463" column="84" lean-forward="false" selection-start-line="463" selection-start-column="84" selection-end-line="463" selection-end-column="84" />
           <folding />
         </state>
       </provider>
