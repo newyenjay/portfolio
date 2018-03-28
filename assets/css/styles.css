@@ -6,10 +6,6 @@ body {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /* background: url(../images/banner-bg.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed; */
-
 }
 
 h1,
@@ -595,6 +591,7 @@ a.dotted-link:hover {
     .header {
         text-align: center;
         padding-right: 10px;
+        padding-bottom: 20px;
         min-height: 100%;
         background: url(../images/purple-lights.jpeg);
         -webkit-background-size: 100%;
@@ -629,6 +626,13 @@ a.dotted-link:hover {
         text-align: center;
     }
 
+    #contact{
+        padding-bottom: 10px;
+    }
+
+    .navbar-top{
+
+    }
 }
 
 /* Small devices (tablets, 768px and up) */
