@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ef99e2d-28db-43c8-b84c-b1b27ecb3fb8" name="Default" comment="Apparently I cant' spell">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +17,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="865" column="51" lean-forward="false" selection-start-line="865" selection-start-column="51" selection-end-line="865" selection-end-column="51" />
+            <state relative-caret-position="410">
+              <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding>
-                <element signature="e#44167#44172#0" expanded="true" />
+                <element signature="e#44174#44179#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,8 +29,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="683" column="11" lean-forward="false" selection-start-line="683" selection-start-column="6" selection-end-line="683" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -60,7 +61,12 @@
       <find>center</find>
       <find>jade</find>
       <find>CMS</find>
+      <find>JQuery</find>
+      <find>hover</find>
     </findStrings>
+    <replaceStrings>
+      <replace>jQuery</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -166,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522168751320</updated>
       <workItem from="1522168752635" duration="2810000" />
-      <workItem from="1522250626812" duration="7290000" />
+      <workItem from="1522250626812" duration="7408000" />
     </task>
     <task id="LOCAL-00001" summary="Images turned into hyperlinks">
       <created>1522168911244</created>
@@ -207,7 +213,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10100000" />
+    <option name="totallyTimeSpent" value="10218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
@@ -296,7 +302,7 @@
         <state relative-caret-position="84">
           <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
           <folding>
-            <element signature="e#44167#44172#0" expanded="true" />
+            <element signature="e#44174#44179#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -316,18 +322,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="633" column="0" lean-forward="false" selection-start-line="633" selection-start-column="0" selection-end-line="633" selection-end-column="0" />
+        <state relative-caret-position="263">
+          <caret line="683" column="11" lean-forward="false" selection-start-line="683" selection-start-column="6" selection-end-line="683" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="865" column="51" lean-forward="false" selection-start-line="865" selection-start-column="51" selection-end-line="865" selection-end-column="51" />
+        <state relative-caret-position="410">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding>
-            <element signature="e#44167#44172#0" expanded="true" />
+            <element signature="e#44174#44179#0" expanded="true" />
           </folding>
         </state>
       </provider>
