@@ -114,6 +114,10 @@ a.dotted-link:hover {
 
 }
 
+.center{
+  text-align: center;
+}
+
 
 
 /* ======= Header ======= */
@@ -574,6 +578,12 @@ padding-right: 10px;
     border-radius: 70%;
     width: 200px;
     height: auto;
+  align: left;
+}
+
+.introduction-me {
+  display: block;
+  padding-top: 10px;
 }
 
 .work-name {
