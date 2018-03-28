@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ef99e2d-28db-43c8-b84c-b1b27ecb3fb8" name="Default" comment="Apparently I cant' spell">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,9 +16,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="136" column="54" lean-forward="true" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
-              <folding />
+            <state relative-caret-position="636">
+              <caret line="865" column="51" lean-forward="false" selection-start-line="865" selection-start-column="51" selection-end-line="865" selection-end-column="51" />
+              <folding>
+                <element signature="e#44167#44172#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522168751320</updated>
       <workItem from="1522168752635" duration="2810000" />
-      <workItem from="1522250626812" duration="6551000" />
+      <workItem from="1522250626812" duration="7290000" />
     </task>
     <task id="LOCAL-00001" summary="Images turned into hyperlinks">
       <created>1522168911244</created>
@@ -206,7 +207,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9361000" />
+    <option name="totallyTimeSpent" value="10100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
@@ -294,7 +295,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="e#44167#44172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -321,9 +324,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="136" column="54" lean-forward="true" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="636">
+          <caret line="865" column="51" lean-forward="false" selection-start-line="865" selection-start-column="51" selection-end-line="865" selection-end-column="51" />
+          <folding>
+            <element signature="e#44167#44172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
