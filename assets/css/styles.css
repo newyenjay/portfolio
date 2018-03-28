@@ -634,7 +634,6 @@ a.dotted-link:hover {
 
     .header #titleName {
         padding-right: 10px;
-
     }
 
 }
@@ -656,6 +655,22 @@ a.dotted-link:hover {
     #titleName {
         font-size: 4em;
     }
+}
+
+@media screen and (max-width: 360px) {
+    /* start of phone styles */
+    #titleName {
+        font-size: 3em;
+    }
+    .introduction-me {
+        display: inline-block;
+    }
+
+    #profilePic{
+        display: block;
+        float: left;
+    }
+
 }
 
 #dnit, #blueocean-img {
