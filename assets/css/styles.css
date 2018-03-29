@@ -743,3 +743,8 @@ a.dotted-link:hover {
 #titleName{
     color: #ffffff;
 }
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #3AAA64;
+}
