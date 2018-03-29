@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4ecd6d0a-d1de-411e-bdde-80949f490aa3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+    <list default="true" id="5ef99e2d-28db-43c8-b84c-b1b27ecb3fb8" name="Default" comment="Apparently I cant' spell">
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,6 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -20,16 +26,33 @@
               <caret line="113" column="111" lean-forward="false" selection-start-line="113" selection-start-column="98" selection-end-line="113" selection-end-column="111" />
               <folding>
                 <element signature="e#38544#38549#0" expanded="true" />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="299" column="87" lean-forward="true" selection-start-line="299" selection-start-column="87" selection-end-line="299" selection-end-column="87" />
+              <folding>
+                <element signature="e#44208#44213#0" expanded="true" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="982">
               <caret line="554" column="21" lean-forward="false" selection-start-line="554" selection-start-column="21" selection-end-line="554" selection-end-column="21" />
+=======
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="683" column="11" lean-forward="false" selection-start-line="683" selection-start-column="6" selection-end-line="683" selection-end-column="11" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
               <folding />
             </state>
           </provider>
@@ -39,18 +62,61 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
       <find>Single</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+      <find>AngularJS</find>
+      <find>bann</find>
+      <find>profile</find>
+      <find>flower</find>
+      <find>Jennifer Nguyen</find>
+      <find>work-lengh</find>
+      <find>nav</find>
+      <find>profilePic</find>
+      <find>work-project-title</find>
+      <find>titlename</find>
+      <find>htdo</find>
+      <find>Hi,</find>
+      <find>background</find>
+      <find>bammer</find>
+      <find>twitter</find>
+      <find>banner-</find>
+      <find>Sebasti</find>
+      <find>banner</find>
+      <find>center</find>
+      <find>jade</find>
+      <find>CMS</find>
+      <find>JQuery</find>
+      <find>hover</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>jQuery</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="5eeede565ca47cd31b973aa2e6a5569881d1b38c" />
+      </map>
+    </option>
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
+=======
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
       </list>
     </option>
   </component>
@@ -61,10 +127,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="22" />
     <option name="width" value="2560" />
     <option name="height" value="1361" />
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2048" />
+    <option name="height" value="1152" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -87,20 +159,41 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+=======
+              <item name="portfolio mamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="portfolio mamp" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
               <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+=======
+              <item name="portfolio mamp" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
               <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="portfolio mamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
           </expand>
           <select />
         </subPane>
@@ -108,9 +201,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="true" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,6 +229,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="4ecd6d0a-d1de-411e-bdde-80949f490aa3" name="Default" comment="" />
       <created>1522118212231</created>
       <option name="number" value="Default" />
@@ -210,10 +308,69 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117553614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+      <changelist id="5ef99e2d-28db-43c8-b84c-b1b27ecb3fb8" name="Default" comment="" />
+      <created>1522168751320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522168751320</updated>
+      <workItem from="1522168752635" duration="2810000" />
+      <workItem from="1522250626812" duration="7496000" />
+    </task>
+    <task id="LOCAL-00001" summary="Images turned into hyperlinks">
+      <created>1522168911244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522168911244</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Note to add more information about time at blueocean">
+      <created>1522169564560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522169564560</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added images for background">
+      <created>1522179893468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522179893468</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Apparently I cant' spell">
+      <created>1522180030129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522180030129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed heading color">
+      <created>1522182372067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522182372067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10306000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20189431" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -221,6 +378,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31439394" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17897727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -238,6 +403,7 @@
         <entry key="MAIN">
           <value>
             <State>
+<<<<<<< HEAD
               <option name="LONG_EDGES_VISIBLE" value="true" />
               <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -261,13 +427,25 @@
                     </option>
                   </UserGroup>
                 </collection>
+=======
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
               </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
+<<<<<<< HEAD
                         <option value="HEAD" />
+=======
+                        <option value="origin/master" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
                       </list>
                     </value>
                   </entry>
@@ -276,9 +454,15 @@
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
+<<<<<<< HEAD
                   <option value="2" />
                   <option value="3" />
                   <option value="1" />
+=======
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
                 </list>
               </option>
             </State>
@@ -291,18 +475,28 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="Testing integration on PHPStorm" />
     <MESSAGE value="PHP Stars" />
     <MESSAGE value="Reviewing work project descriptions" />
     <MESSAGE value="Updating stars- added CMS section" />
     <MESSAGE value="image style updates" />
     <option name="LAST_COMMIT_MESSAGE" value="image style updates" />
+=======
+    <MESSAGE value="Images turned into hyperlinks" />
+    <MESSAGE value="Note to add more information about time at blueocean" />
+    <MESSAGE value="Added images for background" />
+    <MESSAGE value="Apparently I cant' spell" />
+    <MESSAGE value="Changed heading color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed heading color" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12742">
@@ -317,10 +511,19 @@
           <caret line="113" column="111" lean-forward="false" selection-start-line="113" selection-start-column="98" selection-end-line="113" selection-end-column="111" />
           <folding>
             <element signature="e#38544#38549#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#44208#44213#0" expanded="true" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2599">
@@ -335,9 +538,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="982">
           <caret line="554" column="21" lean-forward="false" selection-start-line="554" selection-start-column="21" selection-end-line="554" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2604">
+          <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/banner-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="683" column="11" lean-forward="false" selection-start-line="683" selection-start-column="6" selection-end-line="683" selection-end-column="11" />
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="299" column="87" lean-forward="true" selection-start-line="299" selection-start-column="87" selection-end-line="299" selection-end-column="87" />
+          <folding>
+            <element signature="e#44208#44213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 262062c8f67fd7fe2de089cec4ac6f25b6b4cb1b
   </component>
 </project>
