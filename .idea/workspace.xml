@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ef99e2d-28db-43c8-b84c-b1b27ecb3fb8" name="Default" comment="Apparently I cant' spell">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="778">
-              <caret line="690" column="90" lean-forward="false" selection-start-line="690" selection-start-column="90" selection-end-line="690" selection-end-column="90" />
+            <state relative-caret-position="284">
+              <caret line="32" column="88" lean-forward="false" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
               <folding>
                 <element signature="e#43341#43346#0" expanded="true" />
               </folding>
@@ -96,7 +97,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="22" />
     <option name="width" value="2048" />
     <option name="height" value="1126" />
@@ -190,7 +191,8 @@
       <workItem from="1522682939136" duration="107000" />
       <workItem from="1522706438350" duration="753000" />
       <workItem from="1522863165107" duration="653000" />
-      <workItem from="1523055055594" duration="30000" />
+      <workItem from="1523055055594" duration="169000" />
+      <workItem from="1523483867019" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="Images turned into hyperlinks">
       <created>1522168911244</created>
@@ -231,13 +233,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16372000" />
+    <option name="totallyTimeSpent" value="16628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21385843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21585244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -314,6 +316,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#43341#43346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15708">
+          <caret line="748" column="18" lean-forward="false" selection-start-line="748" selection-start-column="18" selection-end-line="748" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -588,8 +608,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="778">
-          <caret line="690" column="90" lean-forward="false" selection-start-line="690" selection-start-column="90" selection-end-line="690" selection-end-column="90" />
+        <state relative-caret-position="284">
+          <caret line="32" column="88" lean-forward="false" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
           <folding>
             <element signature="e#43341#43346#0" expanded="true" />
           </folding>
