@@ -681,7 +681,7 @@ a.dotted-link:hover {
 
 }
 
-#dnit:hover, #blueocean-img:hover, #g1-img {
+#dnit:hover, #blueocean-img:hover, #g1-img:hover {
     filter: none;
     -webkit-filter: none;
     transition: all .6s ease;
