@@ -670,7 +670,7 @@ a.dotted-link:hover {
 }
 
 
-#dnit, #blueocean-img {
+#dnit, #blueocean-img, #g1-img {
     filter: url(filters.svg#grayscale);
     /* Firefox 3.5+ */
     filter: gray;
@@ -681,7 +681,7 @@ a.dotted-link:hover {
 
 }
 
-#dnit:hover, #blueocean-img:hover {
+#dnit:hover, #blueocean-img:hover, #g1-img {
     filter: none;
     -webkit-filter: none;
     transition: all .6s ease;
@@ -747,4 +747,8 @@ a.dotted-link:hover {
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #3AAA64;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
 }
