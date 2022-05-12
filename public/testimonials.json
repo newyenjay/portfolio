@@ -1,0 +1,29 @@
+{
+    "testimonials": [
+        {
+            "name": "Chase Ireland",
+            "position": "Senior Software Developer at Synopsis",
+            "blurb": " Jen is a pleasure to work with. I have worked closely with her for a few years doing full-stack development on enterprise blockchain software. She has a wide array of technical skills, with a particularly strong eye for elegant UI design and aptitude for forwarding-thinking technologies. Jen has excellent interpersonal skills and a highly enthusiastic, motivated and positive personality. She is a natural morale booster and an asset for any company culture that values collaboration, forward momentum, and positive energy."
+        },
+        {
+            "name": "Jade Low",
+            "position": "Project Coordinator at DNIT Solutions Inc.",
+            "blurb": " We have consulted Jennifer to design and develop the website for DNIT Solutions Inc. Not only she had fully understood the project requirements but she was professional and knowledgeable at every stage of the process : Planning, design, modification, integration and quality testing. Her attentional to details remains even under tight deadlines. It was a great pleasure to meet and work with Jennifer. I would not hesitate to recommend her as a web developer to any of my clients"
+        },
+        {
+            "name": "Wayne Lin",
+            "position": "Web Developer at Nuvo Cabinets and Stone",
+            "blurb": "Jennifer is not only smart but also very organized. I had her as a team member, she was able to our final project [Capstone] go very smoothly since she is capable of organizing a plan to achieve high efficiency on completing our capstone, and I'm sure, any project. She is intelligent and great at solving problems. She also has strong communication skill, which makes her a good team player, and everyone likes to works with her."
+        },
+        {
+            "name": "Sebastian C",
+            "position": "Polimark IT Coordinator",
+            "blurb": "I completed the software development program with Jen at SAIT. She was always a pleasure to work with. Jen would take the initiative on every project and always took the time to help out others. I admired her positive out look and cheerful attitude when dealing with stressful situations or frustrating problems. "
+        },
+        {
+            "name": "Christine Ramos",
+            "position": "Senior Copy Writer at Blue Ocean Interactive Marketing",
+            "blurb": " Jennifer is an asset on any team! She’s got a keen eye for usability, anticipating and addressing issues before they occur. Her ability to communicate with clients and team members alike, creates a collaborative environment that makes everyone feel comfortable. She’s a great problem solver and adapts to challenges in a proactive and efficient manner. She’s a gem to work with.  "
+        }
+    ]
+}

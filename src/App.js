@@ -7,6 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Testimonials from "./components/Testimonials";
 
 class App extends Component {
 
@@ -16,11 +17,13 @@ class App extends Component {
       foo: "bar",
       resumeData: {},
       sharedData: {},
+      testimonialsFeedback: {}
     };
   }
 
   componentDidMount() {
     this.loadSharedData();
+    this.loadTestimonials();
     var resumePath = 'info.json';
     this.loadResumeFromPath(resumePath);
   }
@@ -54,6 +57,20 @@ class App extends Component {
     });
   }
 
+    loadTestimonials() {
+      $.ajax({
+        url: `testimonials.json`,
+        dataType: "json",
+        cache: false,
+        success: function (data) {
+          this.setState({ testimonialsFeedback: data });
+        }.bind(this),
+        error: function (xhr, status, err) {
+          alert(err);
+        },
+      });
+  }
+
   render() {
     return (
       <div>
@@ -66,6 +83,8 @@ class App extends Component {
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+        <Testimonials testimonialsFeedback={this.state.testimonialsFeedback.testimonials}></Testimonials>
+
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
