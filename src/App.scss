@@ -38,6 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
+	background: #252934;
 	background-image: linear-gradient(to right, #75c9b7 , #c7ddcc) !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -45,6 +46,12 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+}
+
+canvas {
+//   display: block;
+	position: absolute;
+  vertical-align: bottom;
 }
 
 .language-icon {
@@ -78,7 +85,17 @@ header {
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
+// #tsparticles {
+// 	width: 100%;
+// 	height: 100%;
+// 	position: fixed;
+// 	margin: 0;
+// 	padding: 0;
+// 	top: 0;
+// 	left: 0;
+//   }
 
+  
 header h1 {
 	font-size: 400%;
 	text-align: center;
@@ -175,6 +192,10 @@ header h1 {
 	max-width: 200px;
 }
 
+.resume-experience {
+	font-size: 132% !important;
+}
+
 .polaroid span {
 	background: #ffffff;
 	display: inline-block;
@@ -253,6 +274,7 @@ header h1 {
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+	font-size: 18px !important;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -341,7 +363,7 @@ header h1 {
 }
 
 #portfolio {
-	background-image: linear-gradient(to right, #75c9b7 , #c7ddcc) !important;
+	// background-image: linear-gradient(to right, #75c9b7 , #c7ddcc) !important;
 	padding-bottom: 5%;
 }
 
@@ -378,8 +400,8 @@ header h1 {
 
 #skills {
 	background: #1F1F1F;
-	min-height: 200px;
-	width: 100%;
+	// min-height: 200px;
+	// width: 100%;
 	overflow: hidden;
 	padding-bottom: 10%;
 }
@@ -400,6 +422,12 @@ header h1 {
 	text-align: center;
 	position: relative;
 }
+
+Form {
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	padding: 20px;
+  }
 
 footer {
 	background: #1F1F1F;
@@ -432,13 +460,13 @@ footer a:focus {
 /////////////////////////////////////////
 
 #testimonials {
+	background-image: linear-gradient(to right, #75c9b7 , #c7ddcc) !important;
 	padding-bottom: 5%;
 }
 
 .carousel-root {
-	width: 64% !important;
+	width: 65% !important;
 	margin: auto !important;
-	margin-top: 3% !important;
   }
   
   .carousel .slide {
@@ -448,13 +476,11 @@ footer a:focus {
   }
   
   .carousel .slide img {
-	width: 139px !important;
 	border-radius: 50%;
   }
   
   .myCarousel {
 	background: #fafafa;
-	// width: 54%;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom:auto;
@@ -466,13 +492,11 @@ footer a:focus {
 	height: auto;
   }
   
-  .carousel .control-dots {
-	padding-left: 5px !important;
-	margin-bottom: 100px;
-	// outline: 0;
+   .control-dots {
 	bottom: 5% !important;
-	border-color: 'red';
-    border-width: 1;
+	border: 1px solid black;
+	margin-top: 80%;
+
   }
   
   .myCarousel h3 {

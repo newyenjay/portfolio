@@ -30,7 +30,7 @@ class Experience extends Component {
         });
         return (
           <VerticalTimelineElement
-            className="vertical-timeline-element--work"
+            className="vertical-timeline-element--work font-trebuchet"
             date={work.years}
             iconStyle={{
               background: "#AE944F",
@@ -56,7 +56,7 @@ class Experience extends Component {
             >
               {work.company}
             </h4>
-            <p style={{whiteSpace: 'pre-line'}} >{work.blurb}</p>
+            <p className="resume-experience font-trebuchet " style={{ whiteSpace: 'pre-line'}} >{work.blurb}</p>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>
         );

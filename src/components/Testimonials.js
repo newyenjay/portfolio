@@ -23,7 +23,7 @@ export default class Testimonials extends Component {
     }
 
     return (
-      <div id="testimonials" className="col-md-12">
+      <section id="testimonials">
         <h1 className="section-title" style={{ color: "black" }}>
           <span>Testimonials</span>
         </h1>
@@ -33,13 +33,15 @@ export default class Testimonials extends Component {
             infiniteLoop={true}
             showThumbs={false}
             showStatus={false}
+            showIndicators={false}
+            swipeable={true}
             autoPlay={true}
             interval={6100}
           >
             {work}
           </Carousel>
         </div>
-      </div>
+      </section>
     );
   }
 }

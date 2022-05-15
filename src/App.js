@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
+import ContactForm from "./components/ContactForm";
 
 class App extends Component {
 
@@ -79,11 +80,7 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        <Projects
-          resumeProjects={this.state.resumeData.projects}
-          resumeBasicInfo={this.state.resumeData.basic_info}
-        />
-        <Testimonials testimonialsFeedback={this.state.testimonialsFeedback.testimonials}></Testimonials>
+        <Testimonials testimonialsFeedback={this.state.testimonialsFeedback.testimonials} />
 
         <Skills
           sharedSkills={this.state.sharedData.skills}
@@ -93,6 +90,13 @@ class App extends Component {
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+         <Projects
+          resumeProjects={this.state.resumeData.projects}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <div col-md-6>
+          <ContactForm></ContactForm>
+        </div>
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );
