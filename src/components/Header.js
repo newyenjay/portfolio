@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Typical from "react-typical";
-import Switch from "react-switch";
 import Particles from "react-tsparticles";
 import { headerParticles } from "../configs/tsParticles";
 
@@ -15,15 +14,6 @@ class Header extends Component {
 
   onThemeSwitchChange(checked) {
     this.setState({ checked });
-    this.setTheme();
-  }
-
-  setTheme() {
-    var dataThemeAttribute = "data-theme";
-    var body = document.body;
-    var newTheme =
-      body.getAttribute(dataThemeAttribute) === "dark" ? "light" : "dark";
-    body.setAttribute(dataThemeAttribute, newTheme);
   }
 
   render() {
