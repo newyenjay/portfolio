@@ -11,21 +11,20 @@ import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
       foo: "bar",
       resumeData: {},
       sharedData: {},
-      testimonialsFeedback: {}
+      testimonialsFeedback: {},
     };
   }
 
   componentDidMount() {
     this.loadSharedData();
     this.loadTestimonials();
-    var resumePath = 'info.json';
+    var resumePath = "info.json";
     this.loadResumeFromPath(resumePath);
   }
 
@@ -34,10 +33,10 @@ class App extends Component {
       url: path,
       dataType: "json",
       cache: false,
-      success: function (data) {
+      success: function(data) {
         this.setState({ resumeData: data });
       }.bind(this),
-      error: function (xhr, status, err) {
+      error: function(xhr, status, err) {
         alert(err);
       },
     });
@@ -48,28 +47,28 @@ class App extends Component {
       url: `portfolio_shared_data.json`,
       dataType: "json",
       cache: false,
-      success: function (data) {
+      success: function(data) {
         this.setState({ sharedData: data });
         document.title = `${this.state.sharedData.basic_info.name}`;
       }.bind(this),
-      error: function (xhr, status, err) {
+      error: function(xhr, status, err) {
         alert(err);
       },
     });
   }
 
-    loadTestimonials() {
-      $.ajax({
-        url: `testimonials.json`,
-        dataType: "json",
-        cache: false,
-        success: function (data) {
-          this.setState({ testimonialsFeedback: data });
-        }.bind(this),
-        error: function (xhr, status, err) {
-          alert(err);
-        },
-      });
+  loadTestimonials() {
+    $.ajax({
+      url: `testimonials.json`,
+      dataType: "json",
+      cache: false,
+      success: function(data) {
+        this.setState({ testimonialsFeedback: data });
+      }.bind(this),
+      error: function(xhr, status, err) {
+        alert(err);
+      },
+    });
   }
 
   render() {
@@ -80,7 +79,9 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        <Testimonials testimonialsFeedback={this.state.testimonialsFeedback.testimonials} />
+        <Testimonials
+          testimonialsFeedback={this.state.testimonialsFeedback.testimonials}
+        />
 
         <Skills
           sharedSkills={this.state.sharedData.skills}
@@ -90,13 +91,10 @@ class App extends Component {
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-         <Projects
+        <Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <div col-md-6>
-          <ContactForm></ContactForm>
-        </div>
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );

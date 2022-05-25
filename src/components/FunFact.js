@@ -1,21 +1,25 @@
 import React, { Component } from "react";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from "react-responsive-carousel";
 
 export default class FunFact extends Component {
   render() {
     return (
-      <section id="fun-fact">
-                <div className="col-md-12 mx-auto">
-        <h1 className="section-title">
-          <span>Testimonials</span>
-        </h1>
+      <div id="fun-fact">
+        <div className="col mx-auto">
+          <h1 className="section-title">
+            <span>Contact Form</span>
+          </h1>
         </div>
-        <div className="col-md-12 mx-auto">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor velit eget faucibus iaculis. Nulla facilisi. Aenean fringilla orci sit amet neque accumsan blandit. Mauris ut felis vel nisi ornare mollis sed ut nisl. Mauris id sapien ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vulputate quam lacus. Praesent dapibus turpis nisi, in tempor orci lacinia eget. Donec in arcu faucibus, mattis ante luctus, hendrerit lectus. Duis vel tortor non nunc varius auctor sed ut nibh. Donec sed sem tortor. Nullam vel arcu vitae metus feugiat feugiat. Cras cursus sem ac consectetur mattis. Curabitur vitae aliquam sapien.
 
+        <div className="col mx-auto round-border">
+          <div className="ui">
+            I attended the University of Calgary for nursing in my first year
+            out of high school. I really enjoyed it and also loved the people I
+            met, but I didn't see it as a career choice for myself. I
+            transferred over to Computer Science a year later, and then
+            transferred over to SAIT for a more hands-on experience afterwards.
+          </div>
         </div>
-      </section>
+      </div>
     );
   }
 }

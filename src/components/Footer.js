@@ -18,15 +18,14 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="col-md-12">
-          <row>
-          <ContactForm></ContactForm>
-        <FunFact></FunFact>
-          </row>
-      
-
-         </div>
-      
+        <div className="row">
+          <div className="col">
+            <ContactForm></ContactForm>
+          </div>
+          <div className="col">
+            <FunFact></FunFact>
+          </div>
+        </div>
       </footer>
     );
   }
