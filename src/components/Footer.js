@@ -22,9 +22,6 @@ class Footer extends Component {
           <div className="col">
             <ContactForm></ContactForm>
           </div>
-          <div className="col">
-            <FunFact></FunFact>
-          </div>
         </div>
       </footer>
     );

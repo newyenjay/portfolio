@@ -13,15 +13,13 @@ class ContactForm extends Component {
     const handleOnSubmit = (e) => {
       e.preventDefault();
       emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.target, USER_ID).then(
-        (result) => {
-          console.log(result.text);
+        () => {
           Swal.fire({
             icon: "success",
             title: "Message Sent Successfully",
           });
         },
         (error) => {
-          console.log(error.text);
           Swal.fire({
             icon: "error",
             title: "Something went wrong",
@@ -32,15 +30,18 @@ class ContactForm extends Component {
       e.target.reset();
     };
     return (
-      <div id="contact-form">
+      <div>
         <div className="col mx-auto">
           <h1 className="section-title">
             <span>Contact Form</span>
           </h1>
+          <p class="after-section-title">
+            Message me with any questions or if you just want to drop a hello
+          </p>
         </div>
 
-        <div className="col mx-auto">
-          <div className="ui font-trebuchet">
+        <div className="col mx-auto contact-form">
+          <div className="contact-form-submit ui font-trebuchet">
             <Form onSubmit={handleOnSubmit}>
               <Form.Field
                 id="form-input-control-email font-trebuchet"
@@ -70,7 +71,7 @@ class ContactForm extends Component {
                 placeholder="Message…"
                 required
               />
-              <Button type="submit" color="green">
+              <Button type="submit" color="blue">
                 Submit
               </Button>
             </Form>
