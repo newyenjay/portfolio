@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://www.jennifer-nguyen.ca",
-  "private": true,
+  "homepage": "https://www.jenn-nguyen.com/public",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
