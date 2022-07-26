@@ -1,0 +1,49 @@
+{
+    "testimonials": [
+        {
+            "name": "Chase Ireland",
+            "position": "Senior Software Developer at Synopsis",
+            "blurb": " Jen is a pleasure to work with. I have worked closely with her for a few years doing full-stack development on enterprise blockchain software. She has a wide array of technical skills, with a particularly strong eye for elegant UI design and aptitude for forwarding-thinking technologies. Jen has excellent interpersonal skills and a highly enthusiastic, motivated and positive personality. She is a natural morale booster and an asset for any company culture that values collaboration, forward momentum, and positive energy."
+        },
+        {
+            "name": "Jade Low",
+            "position": "Project Coordinator at DNIT Solutions Inc.",
+            "blurb": " We have consulted Jennifer to design and develop the website for DNIT Solutions Inc. Not only she had fully understood the project requirements but she was professional and knowledgeable at every stage of the process : Planning, design, modification, integration and quality testing. Her attentional to details remains even under tight deadlines. It was a great pleasure to meet and work with Jennifer. I would not hesitate to recommend her as a web developer to any of my clients"
+        },
+        {
+            "name": "Wayne Lin",
+            "position": "Software Developer at Morgan Stanley",
+            "blurb": "Jennifer is not only smart but also very organized. I had her as a team member, she was able to coordinate our final project [Capstone] go very smoothly since she is capable of organizing a plan to achieve high efficiency on completing our capstone, and I'm sure, any project. She is intelligent and great at solving problems. She also has strong communication skill, which makes her a good team player, and everyone likes to works with her."
+        },
+        {
+            "name": "Sebastian C",
+            "position": "Polimark IT Coordinator",
+            "blurb": "I completed the software development program with Jen at SAIT. She was always a pleasure to work with. Jen would take the initiative on every project and always took the time to help out others. I admired her positive out look and cheerful attitude when dealing with stressful situations or frustrating problems. "
+        },
+        {
+            "name": "Christine Ramos",
+            "position": "Senior Copy Writer at Blue Ocean Interactive Marketing",
+            "blurb": " Jennifer is an asset on any team! She’s got a keen eye for usability, anticipating and addressing issues before they occur. Her ability to communicate with clients and team members alike, creates a collaborative environment that makes everyone feel comfortable. She’s a great problem solver and adapts to challenges in a proactive and efficient manner. She’s a gem to work with.  "
+        },
+        {
+            "name": "Kaylie Poitras",
+            "position": "Software Developer at VistaVu",
+            "blurb": "Jennifer is a strong and independent individual who has a passion for technology. She is a natural at taking a leadership role and working as a critical team member. She takes initiative to learn new skills and goes above and beyond what is expected. "
+        },
+        {
+            "name": "Brady Kolibar",
+            "position": "Software QA Analyst/Scrum Master at Cisco",
+            "blurb": "Jennifer possesses many desirable skills; she is able to identify the clients needs through discussion without direct input in order to develop a product that provides functionality that wasn't initially requested directly but provides a streamlined experience when using the developed product. Her ability to develop relationships with potential clients in order to provide a mockup that goes above and beyond expectations is phenomenal and will be a remarkable contribution to any team she is a part of.\n\nJennifer takes the concept of 'I don't know' to the extreme by replacing it with 'I'll figure out how to do it'. Any team looking for a resourceful and dedicated member who understands the product being developed will benefit from having Jennifer on their team."
+        },
+        {
+            "name": "Barry Kreiser",
+            "position": "Co-Founder, CTO, VP of GuildOne ",
+            "blurb": "Jen was a great resource at GuildOne Inc.. She worked on full-stack development for our ConTracks blockchain project. She has a wide skillset but is especially valuable when it comes to UX design. Always a team player, Jen was a great employee and would be a great hire for any tech company."
+        },
+        {
+            "name": "Curtis Stanford",
+            "position": "Senior Architect at GuildOne ",
+            "blurb": "I was lucky to work directly and indirectly with Jennifer for a couple of years at GuildOne. She was always upbeat, positive and eager to take on new work. She was thrown some pretty tough projects using new languages and new concepts which she picked up quickly. Jennifer also has a great eye for UI design and user experience. She gets along with everyone and works great in a team environment."
+        }
+    ]
+}

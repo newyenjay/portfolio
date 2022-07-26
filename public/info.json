@@ -1,0 +1,132 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi, I'm Jennifer and I am an alumni of Southern Alberta Institute of Technology (SAIT) in Calgary, Canada. I majored in Software Development. I previously worked at GuildOne Inc. until 2020 and I am currently working as a software developer at Morgan Stanley.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Web Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Single Cup",
+        "startDate": "e-Commerce",
+        "description": "Single Cup is Canada's go to online Keurig site. Built with OpenCart, OpenCart is an open source PHP-based online e-commerce solution. I was part of the team that helped tailor and custom program parts of the site. This included invoicing, custom email templates and generating shipping labels to help Single Cup's warehouse make the shipment process easier.",
+        "images": [
+          "images/projects/singlecup.png"
+        ],
+        "url": "https://www.singlecup.ca/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bilt Ringette",
+        "startDate": "online scheduling system",
+        "description": "Bilt Ringette is a ringette site that allows athletes to register and make their schedules online. As a member of this project, I was tasked with helping make administrative work easier. This included custom programming of generating PDFs, invoices, mass excel sheets that could pull in specific data and implementing a mass emailing system to all athletes or parents of particular camps. Setting up camps previously was tedious on their old system and the administrative backend allowed them to quickly add camps by importing Excel spreadsheets.",
+        "images": [
+          "images/projects/bilt.png"
+        ],
+        "url": "https://www.biltringette.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Cedars Deli",
+        "startDate": "e-commerce",
+        "description": "One of Calgary's most recognizable Mediterranean restaurants, I was excited when I was selected to help with upgrading their online ordering systems. One of the most engaging clients I worked for, I helped develop their online catering system. This was one of my first projects as a new graduate, and I was a happy to be able to help them give a better customer experience. This was a great learning experience programming an e-commerce system for their catering system.",
+        "images": [
+          "images/projects/cedarsdeli.png"
+        ],
+        "url": "https://cedarsdeli.com/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Morgan Stanley",
+        "title": "Software Developer",
+        "years": "Jun 2020 - present",
+        "blurb": "Morgan Stanley at Work (Shareworks) is a leading global provider of web-based stock plan administration technology and services. Their software helps companies automate and manage their stock option and purchase plans.\n\nThe collaborative environment and constant support of mental health and growth of individuals makes it a great place to work for. Having a workplace that supports not just my career but mental health is a great indicator and a reason why Morgan Stanley is a fortune 500 company." ,
+        "mainTech": [
+          "Java",
+          "Oracle Database"
+        ],
+        "technologies": [
+          "REST API",
+          "Spring",
+          "Struts",
+          "React",
+          "React Native",
+          "Selenium"
+        ]
+      },
+      {
+        "company": "Guild One Inc.",
+        "title": "Software Engineer",
+        "years": "May 2018 - April 2020",
+        "blurb": "GuildOne Inc. is a Calgary software company that provides advanced data solutions and business intelligence to oil and gas companies. In 2018, GuildOne conducted the world’s first blockchain oil and gas royalty transaction on Energy Block Exchange (EBX), its blockchain business network for energy transactions. \n\nAs part of the team working on ConTracks at GuildOne, I helped research in the implementation of a new web interface. Previously, ConTracks was available only as a desktop application. Since the application was written in the Scala programming language, I decided to use Scala.js. Scala.js is a compiler that compiles Scala source code to equivalent JavaScript code. With this ability to convert Scala code to JavaScript, I was able to use React as our front end. This is my first exposure to React, and so far, it's easy to see why it's one of JavaScript's most popular front end frameworks!\n\nI also help develop an internal documentation site where GuildOne employees could go and look up either business related information about a product, to technical documentation about API endpoints to blockchain concepts used. This is a great opportunity for me to learn more about pipelines that are used in BitBucket and Docker Hub. I also help maintain the technical aspect of GuildOne's website by keeping the development environment separate from the live site using an Ubuntu server.",
+        "mainTech": [
+          "Scala",
+          "Java",
+          "Neo4J",
+          "MySQL"
+        ],
+        "technologies": [
+          "Corda",
+          "JavaFX",
+          "Akka",
+          "Play",
+          "Docker"
+        ]
+      },
+      {
+        "company": "Blue Ocean Interactive Marketing",
+        "title": "Web Developer",
+        "years": "Sept 2016 - April 2018",
+        "blurb": "Blue Ocean is a Calgary based company that services clients around North America with custom web designs and online marketing company. Blue Ocean was able to give me my first job into the web development world where I was able to feel like part of a team that was capable of making an impact. I worked on many projects in different fields from the Catholic education system to helping a drain service bring their ideas and services to life\n\nThis was my first job out of school where I was lucky enough to be working under some amazing developers that were kind, patient and taught me how to approach a technical problem and solve it, while also teaching me how to effectively communicate my thoughts and ideas to a technical and non-technical audience.",
+        "mainTech": [
+          "PHP",
+          "MySQL",
+          "HTML/CSS",
+          "JavaScript/jQuery",
+          "Ajax",
+          "Bootstrap"
+        ],
+        "technologies": [
+          "Wordpress",
+          "Joomla"
+        ]
+      }
+    ]
+  }
