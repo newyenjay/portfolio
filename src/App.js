@@ -8,13 +8,11 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
-import ContactForm from "./components/ContactForm";
 
 class App extends Component {
-  constructor(props) {
+  constructor() {
     super();
     this.state = {
-      foo: "bar",
       resumeData: {},
       sharedData: {},
       testimonialsFeedback: {},
@@ -48,7 +46,9 @@ class App extends Component {
       dataType: "json",
       cache: false,
       success: function(data) {
-        this.setState({ sharedData: data });
+        this.setState({
+          sharedData: data,
+        });
         document.title = `${this.state.sharedData.basic_info.name}`;
       }.bind(this),
       error: function(xhr, status, err) {
@@ -85,6 +85,7 @@ class App extends Component {
 
         <Skills
           sharedSkills={this.state.sharedData.skills}
+          sharedTools={this.state.sharedData.tools}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Experience

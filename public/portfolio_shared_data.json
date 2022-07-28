@@ -14,7 +14,46 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "profile-pic.jpg"
+      "image": "bg-white.jpg"
+    },
+    "tools": {
+      "icons": [
+        {
+          "name": "IntelliJ",
+          "class": "devicon-intellij-plain",
+          "level": "95"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain",
+          "level": "95"
+        },
+        {
+          "name": "Confluence",
+          "class": "devicon-confluence-plain",
+          "level": "95"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "95"
+        },
+        {
+          "name": "VS Code",
+          "class": "devicon-visualstudio-plain",
+          "level": "95"
+        },
+        {
+          "name": "Gradle",
+          "class": "devicon-gradle-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
     },
     "skills": {
       "icons": [
@@ -62,11 +101,6 @@
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
         }
       ]
     }

@@ -40,8 +40,8 @@ class ContactForm extends Component {
           </p>
         </div>
 
-        <div className="col mx-auto contact-form">
-          <div className="contact-form-submit ui font-trebuchet">
+        <div className="col-8 mx-auto contact-form">
+          <div className="contact-form-submit ui font-trebuchet form-outline">
             <Form onSubmit={handleOnSubmit}>
               <Form.Field
                 id="form-input-control-email font-trebuchet"
