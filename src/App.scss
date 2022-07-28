@@ -179,7 +179,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 300px;
 }
 
 .resume-experience {
@@ -189,7 +189,7 @@ header h1 {
 .polaroid span {
 	background: #ffffff;
 	display: inline-block;
-	margin: 55px 75px 30px;
+	// margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
 	text-align: center;
 	text-decoration: none;
@@ -277,6 +277,10 @@ header h1 {
 	padding: 0 !important;
 	margin: 0 !important;
 	font-size: 18px !important;
+}
+
+.vertical-timeline-element-content p {
+	font-size: 1em !important;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -463,6 +467,10 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+
+.card-body {
+	font-size: 1em;
 }
 
 /////////////////////////////////////////

@@ -21,11 +21,7 @@ class About extends Component {
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
-                  <img
-                    height="250px"
-                    src={profilepic}
-                    alt="Avatar placeholder"
-                  />
+                  <img src={profilepic} alt="Avatar placeholder" />
                 </span>
               </div>
             </div>
@@ -56,7 +52,6 @@ class About extends Component {
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
                       lineHeight: "200%",
                     }}
                   >
